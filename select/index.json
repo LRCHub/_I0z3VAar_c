@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Star",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-04T14:09:27.289927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Star Sky",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/02_Star_Sky_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Country Star",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/03_Country_Star_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Someone Else's Star",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/04_Someone_Else's_Star_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Someone Else's Star (LP Version)",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/05_Someone_Else's_Star_(LP_Version)_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Someone Else's Star (LP Version)",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/06_Someone_Else's_Star_(LP_Version)_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Southern Star",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/07_Southern_Star_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Southern Star",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/08_Southern_Star_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Twinkle, Twinkle Lucky Star",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/09_Twinkle,_Twinkle_Lucky_Star_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twinkle, Twinkle Lucky Star (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/10_Twinkle,_Twinkle_Lucky_Star_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/11_Would_You_Catch_a_Falling_Star_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": false,
+      "path": "select/12_Would_You_Catch_a_Falling_Star_John_Anderson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Black Star",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Black_Star_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rock 'n' Roll Star",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/14_Rock_'n'_Roll_Star_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somewhere a Star Shines for Everyone",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/15_Somewhere_a_Star_Shines_for_Everyone_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Star In You",
+      "artist": "Wanting",
+      "has_synced": true,
+      "path": "select/16_Star_In_You_Wanting.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Star",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Star_星野源.txt"
+    }
+  ]
+}
